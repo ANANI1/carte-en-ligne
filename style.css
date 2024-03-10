@@ -1,0 +1,45 @@
+.container {
+    position: relative;
+    width: 300px;
+    /* height: 196px; */
+    border: 2px solid red;
+}
+
+div.container img {
+    width: 100%
+}
+
+.container .span {
+    padding: 5px;
+    margin: 5px;
+    color: white;
+    
+}
+
+.container .Mr {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.container .Data {
+    position: absolute;
+    top: 20px;
+    right: 0px;
+
+} 
+
+.container .wh {
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+}
+
+.container .udc {
+    position: absolute;
+    top: 70px;
+    text-align: center;
+    
+    
+    
+}
